@@ -15,7 +15,5 @@ class Alumno
     end
   end
 end
-
-
 alumnos = Alumno.read_file
 print alumnos
